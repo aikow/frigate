@@ -1,0 +1,2 @@
+# frigate
+Dot file manager
